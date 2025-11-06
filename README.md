@@ -6,10 +6,6 @@
 
 - 🌱 I'm currently learning **system programing**
 
-- 🤝 I'm looking for help with **learning system design**
-
-- 💬 Ask me about **React, React-Native, Node.js, Docker, AWS**
-
 - 📫 How to reach me **pexiaotan1@icloud.com**
 
 - 👨‍💻 All of my projects are available at **[https://tanxiaopei.org](https://tanxiaopei.org)**
